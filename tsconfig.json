@@ -3,10 +3,10 @@
       "sourceMap": true,
       "target": "es2017",
       "outDir": "public",
-      "baseUrl": "./src"
+      "baseUrl": "./"
     },
     "include": [
-      "src/**/*.ts"
+      "**/*.ts"
     ],
     "exclude": [
       "node_modules"
